@@ -1,5 +1,6 @@
 import './App.css'
 import './components/PokemonCard'
+import './components/NavBar'
 
 const pokemonList = [
   {
